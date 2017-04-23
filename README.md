@@ -1,36 +1,3 @@
 # clojure_programmer-brain
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar clojure_programmer-brain-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Clojure で [プログラマ脳を鍛える数学パズル シンプルで高速なコードが書けるようになる70問](https://www.amazon.co.jp/dp/B016QEE30G/) やる
